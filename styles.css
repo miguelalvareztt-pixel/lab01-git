@@ -5,5 +5,8 @@ body {
 }
 
 h1 {
-  color: #0072ce;
+    color: #0072ce;
+    text-align: center;
+    border-bottom: 3px solid #0072ce;
+    padding-bottom: 10px;
 }
